@@ -1,15 +1,5 @@
-# Web Framework
-flask==3.0.0
-flask-cors==4.0.0
-
-# Server (Production ready)
-gunicorn==21.2.0
-
-# API Requests & AI
-requests==2.31.0
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
 google-generativeai==0.3.2
 python-dotenv==1.0.0
-
-# Optional: If you use FastAPI instead of Flask
-# fastapi==0.104.1
-# uvicorn==0.24.0
